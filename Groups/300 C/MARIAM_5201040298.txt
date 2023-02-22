@@ -1,0 +1,46 @@
+1.
+Software process are activities for designing, implementing and testing software systems. A software process model is an abstract representation of the development process. The models specify the stages and order  of a process and also presents a description of a processes from some particular perspective.
+A software development model is important in software development because it prescribe distinct set of activities, actions, tasks and deliverables required to engineer high quality software.
+It so provide stability, control, and organization to a process that if not managed can easily get out of hands.
+Finally, it provide a roadmap for software engineering works.
+2.
+Waterfall is a linear, sequential approach to software development, with distinct phases such as requirement gathering, designing, implementation, testing and maintenance whiles Agile is a flexible, iterative approach to software development with an emphasis on rapid prototyping and continuous delivery.
+The key difference between the two development models is that; Waterfall is a plan-driven model distinct phases of specification and development whereas Agile model is an incremental development with specification, development and validation interleaved.
+The benefits of waterfall model includes the following:
+The linearity of the the model makes it easy to understand, particularly for new developers.
+Also, the clear and well-defined phases of development makes it easy to plan and manage the project.
+Finally, it is well suited for projects with well-defined and unchanging requirements.
+The drawbacks of waterfall include:
+Testing is executed only at the end of the development.  Some problems are harder to fix at this later stage.
+Also, there is difficulty to know how long each phase will take, making it difficult also to estimate the overall time for the project.
+Again, the inflexible partitioning of projects into distinct stages may lead to difficulty to respond to customer requirements.
+Benefits of agile model
+It is flexible and adaptable to changing requirements.
+There is emphasis on rapid prototyping and continuous delivery which can help to identify and fix problems early on.
+It also encourages collaboration and communication between development teams and stakeholders.
+Drawbacks of agile model include
+It may be difficult to plan and manage agile model because requirements and deliverables are not always well-defined in advance.
+Also, because iteration and changes are made throughout development, it may be difficult to estimate the overall time.
+3.
+Rational Unified Process (RUP) is a generic name derived from the work on the UML and
+ its associated processes. It is an approach in software engineering for delegating activities and responsibilities 
+ inside a software development organization.
+The difference between RUP and other models is that it is organized into phases, this, inception, elaboration, construction anc transition, with activities of each face being separate from the other.
+The key activities involved on RUP are:
+Iterative and incremental development
+Strong focus on requirements
+Architectures centered development
+Components based development
+Use of graphic UML models to present static/dynamic views on software.
+
+RUP is beneficial in many ways which include
+Enhancing risk management
+Giving regular feedback to stakeholders 
+It reduces the total project time
+It determines the working elements earlier on in the projects 
+It also offers thorough documentation.
+
+Notwithstanding the many benefits of RUP model, it has some drawbacks which include:
+The much complex nature if the processes involved.
+Also, because of its extensive documentation, it can be time consuming and expensive 
+Finally,  there is a challenge of using it for projects with multiple development streams.
